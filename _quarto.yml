@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "**Ashley S. Ford** — *fordgeoscience*"
+  back-to-top-navigation: true
+  navbar:
+    search: true
+    right:
+      - href: index.qmd
+      - about.qmd
+      - 'research interests.qmd'
+      - cv.qmd
+      - contact.qmd
+
+format:
+  html:
+    title-block: false
+    theme:
+      - cosmos
+    css: styles.css
+    toc: true
+    toc-location: right
+    
+runtime: shiny
+
+editor: visual

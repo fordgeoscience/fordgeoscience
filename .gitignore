@@ -1,0 +1,14 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto
+_site/
+.quarto/project-cache/
+.quarto/quarto-session-*
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto
