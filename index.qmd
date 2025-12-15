@@ -13,7 +13,8 @@ about:
     - text: Email
       href: mailto:a.ford@colostate.edu
 ---
-# Welcome! 
+
+# Welcome!
 
 ## I'm so glad you're here. <br><br>
 
