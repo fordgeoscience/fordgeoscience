@@ -1,3 +1,17 @@
 ---
 title: "Contact"
+image: images/IMG_1509.jpg
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 30em
+  links: 
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/ashleysford/
+  - text: GitHub
+    href: https://github.com/fordgeoscience
+  - text: Email
+    href: mailto:a.ford@colostate.edu
 ---
+
+# I love collaborating and sharing my work.<br><br> Let's connect!
