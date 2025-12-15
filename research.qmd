@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "Research"
 ---
 
 # I study the subsurface dynamics of microplastic in soil near U.S. headwater sites. <br><br>
@@ -43,9 +43,9 @@ Despite this incredible progress, **we still know very little about how micropla
 
 ![Diagram of a directly-deposited microplastic scenario describing the intent of this research project.](images/hillslope.png){width="80%" align="center"}
 
-
 ::: {style="clear: both;"}
 :::
+
 <br>
 
 ## **How am I addressing it?**
@@ -60,22 +60,23 @@ We established a transect from a dual-use road/ trail downslope to the Cache La 
 
 ::: {style="clear: both;"}
 :::
-<br>
-
-![Map of field site near Grandview Campground and Poudre Pass in Bellvue, CO. Transect extends from Long Draw Rd, moving south and downslope for approximately 130 m with an \~10 m elevation loss. Orange pins represent coring locations. Yellow-green pins represent location of soil pits used for radiometric dating. Burnt orange pin represents location of the dust collector that was deployed to measure atmospherically deposited microplastics. Satellite image provided by Google Earth Pro, October 2025.](images/Field Site_GC.png){width="100%" align="left"}
 
 <br>
 
-![Diagram of field method and scope.](images/sampling and cores.png){width="100%" align="left"}
+![Map of field site near Grandview Campground and Poudre Pass in Bellvue, CO. Transect extends from Long Draw Rd, moving south and downslope for approximately 130 m with an \~10 m elevation loss. Orange pins represent coring locations. Yellow-green pins represent location of soil pits used for radiometric dating. Burnt orange pin represents location of the dust collector that was deployed to measure atmospherically deposited microplastics. Satellite image provided by Google Earth Pro, October 2025.](images/Field%20Site_GC.png){width="100%" align="left"}
 
+<br>
+
+![Diagram of field method and scope.](images/sampling%20and%20cores.png){width="100%" align="left"}
 
 ::: {style="clear: both;"}
 :::
+
 <br>
 
 ## **What have I learned so far?**
 
-In Fall 2025, my work focused on understanding common soil properties that may ultimately influence microplastic distribution. These include soil moisture, pH, electrical conductivity (EC), soil organic matter (SOM) content via Total Carbon/Total Nitrogen, and soil texture via hydrometer. The resulting distributions ar displayed below; interpretation is forthcoming. **Microplastic analysis, radiometric dating, as well as grain size and grain shape distribution assessment via Dynamic Image Analysis will occur in Spring 2026.** 
+In Fall 2025, my work focused on understanding common soil properties that may ultimately influence microplastic distribution. These include soil moisture, pH, electrical conductivity (EC), soil organic matter (SOM) content via Total Carbon/Total Nitrogen, and soil texture via hydrometer. The resulting distributions ar displayed below; interpretation is forthcoming. **Microplastic analysis, radiometric dating, as well as grain size and grain shape distribution assessment via Dynamic Image Analysis will occur in Spring 2026.**
 
 ::: {style="clear: both;"}
 :::
@@ -368,25 +369,32 @@ It is well established that soil texture plays a vital role in microplastic move
 
 ![](figures/silt_clay.svg){width="100%"}
 
-
 ::: {style="clear: both;"}
 :::
+
 <br>
 
 ## **What's next?**
 
 <figure style="float: right; width: 450px; margin: 1em 0 1.5em 1em;">
-  <img src="images/Snap-275-zoom17.2x.jpg" alt="Image of isolated microplastics at 17.2x zoom. Microplastics have been treated with DANS to fluoresce." style="width: 100%; display: block;">
-  <figcaption style="display: block; width: 100%; box-sizing: border-box; 
+
+<img src="images/Snap-275-zoom17.2x.jpg" alt="Image of isolated microplastics at 17.2x zoom. Microplastics have been treated with DANS to fluoresce." style="width: 100%; display: block;"/>
+
+```{=html}
+<figcaption style="display: block; width: 100%; box-sizing: border-box; 
                      white-space: normal; overflow-wrap: break-word; 
                      text-align: center; padding-left: 0.50rem;">
-    Image of isolated microplastics at 17.2x zoom. Microplastics have been treated with DANS to fluoresce.
-  </figcaption>
+```
+
+Image of isolated microplastics at 17.2x zoom. Microplastics have been treated with DANS to fluoresce.
+
+</figcaption>
+
 </figure>
 
 -   Grain size and grain shape analysis (via DIA)
 
--   **Microplastic quantification and characterization using Fourier Transform Infrared spectroscopy** 
+-   **Microplastic quantification and characterization using Fourier Transform Infrared spectroscopy**
 
 -   Multi-variate regression to evaluate predictors of MP distribution
 
@@ -396,6 +404,7 @@ It is well established that soil texture plays a vital role in microplastic move
 
 ::: {style="clear: both;"}
 :::
+
 <br>
 
 ## **Acknowledgments**
@@ -406,11 +415,12 @@ I would like to thank the following organizations and individuals for making thi
 
 ::: {style="clear: both;"}
 :::
+
 <br>
 
 ## **References**
 
-\[1\] Tirkey, Anita, and Lata Sheo Bachan Upadhyay. “Microplastics: An Overview on Separation, Identification and Characterization of Microplastics.” Marine Pollution Bulletin 170 (September 2021): 112604. <https://doi.org/10.1016/j.marpolbul.2021.112604>. 
+\[1\] Tirkey, Anita, and Lata Sheo Bachan Upadhyay. “Microplastics: An Overview on Separation, Identification and Characterization of Microplastics.” Marine Pollution Bulletin 170 (September 2021): 112604. <https://doi.org/10.1016/j.marpolbul.2021.112604>.
 
 \[2\] Iwanowicz, Deborah D., Austin K. Baldwin, Larry B. Barber, et al. “Integrated Science for the Study of Microplastics in the Environment—A Strategic Science Vision for the U.S. Geological Survey.” In Circular, No. 1521. U.S. Geological Survey, 2024. <https://doi.org/10.3133/cir1521>.
 

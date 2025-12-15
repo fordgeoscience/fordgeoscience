@@ -44,7 +44,8 @@ packages <- c("tidyverse",
               "soilDB", #import snow depth data from SNOTEL sites across the U.S.
               "dataRetrieval", #Lets you lookup USGS station IDs.
               "DT",
-              "rmdformats"
+              "rmdformats",
+              "showtext"
               )
 
 packageLoad(packages)

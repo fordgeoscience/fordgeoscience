@@ -1,0 +1,35 @@
+/* css styles */
+
+/* css styles */
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  font-size: 18px;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+.page-title-wrapper,
+.page-title-wrapper h1,
+.page-title,
+.page-title-block,
+.qmd-title {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
+figure figcaption {
+  display: block;
+  width: 100%;
+  white-space: normal;
+  word-wrap: break-word;
+  text-align: center;
+  box-sizing: border-box;
+}

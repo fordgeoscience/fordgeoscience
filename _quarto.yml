@@ -1,15 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "**Ashley S. Ford** — *fordgeoscience*"
+  title: "**Ashley S. Ford** (aka *fordgeoscience*)"
   back-to-top-navigation: true
   navbar:
     search: true
     right:
       - href: index.qmd
       - about.qmd
-      - 'research interests.qmd'
+      - research.qmd
       - cv.qmd
       - contact.qmd
 
