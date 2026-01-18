@@ -8,7 +8,7 @@ title: "Research"
 
 ### *First, let's define the term 'microplastic.'*
 
-Small plastic particles are typically classified as nano- or micro-plastics based on their size. Nanoplastics are particles of \<=1 $\mu$m (micron/micrometer), while **microplastic particles can range 1**$\mu$m to 5 mm. These particles are further categorized by how they are created. They are referred to as "primary" if they were intentionally manufactured in the nano to micro size range of 1$\mu$m to 5 mm (e.g., beads for jewelry, plastic abrasion additives in cosmetics, exfoliants, or face wash). Whereas, "secondary" nano- or micro-plastics are the result of mechanical or chemical breakdown of larger plastic items in the environment (e.g., medical supplies, laundry detergent bottles, water bottles, etc.)^1^.
+Small plastic particles are typically classified as nano- or micro-plastics based on their size. Nanoplastics are particles of \<=1 $\mu$m (micron/micrometer), while **microplastic particles can range from 1$\mu$m to 5 mm**. These particles are further categorized by how they are created. They are referred to as "primary" if they were intentionally manufactured in the nano to micro size range of 1$\mu$m to 5 mm (e.g., beads for jewelry, plastic abrasion additives in cosmetics, exfoliants, or face wash). Whereas, "secondary" nano- or micro-plastics are the result of mechanical or chemical breakdown of larger plastic items in the environment (e.g., medical supplies, laundry detergent bottles, water bottles, etc.)^1^.
 
 ### *Are they harmful?*
 
@@ -76,7 +76,7 @@ We established a transect from a dual-use road/ trail downslope to the Cache La 
 
 ## **What have I learned so far?**
 
-In Fall 2025, my work focused on understanding common soil properties that may ultimately influence microplastic distribution. These include soil moisture, pH, electrical conductivity (EC), soil organic matter (SOM) content via Total Carbon/Total Nitrogen, and soil texture via hydrometer. The resulting distributions ar displayed below; interpretation is forthcoming. **Microplastic analysis, radiometric dating, as well as grain size and grain shape distribution assessment via Dynamic Image Analysis will occur in Spring 2026.**
+In Fall 2025, my work focused on understanding common soil properties that may ultimately influence microplastic distribution. These include soil moisture, pH, electrical conductivity (EC), soil organic matter (SOM) content via Total Carbon/Total Nitrogen, and soil texture via hydrometer. The resulting distributions are displayed below and the interpretations are forthcoming. **Microplastic analysis, radiometric dating, as well as grain size and grain shape distribution assessment via Dynamic Image Analysis will occur in Spring 2026.**
 
 ::: {style="clear: both;"}
 :::
@@ -353,7 +353,7 @@ Soil moisture helps us infer the impact of water as a transport medium for micro
 
 ### *pH*
 
-pH is a primary control on soil and microplastic mobility within the soil. Alkaline soils are generally more negatively charged, which can create repelling forces between the soil and aged microplastics (also becomes more negatively charged with age).<br><br>
+pH is a primary control on soil and microplastic mobility within the soil. Alkaline soils are generally more negatively charged, which can create repelling forces between the soil and aged microplastics (which also become more negatively charged with age).<br><br>
 
 ![](figures/ph.svg){width="100%"}
 
@@ -407,11 +407,22 @@ Image of isolated microplastics at 17.2x zoom. Microplastics have been treated w
 
 <br>
 
+## **Products**
+
+The current status of this research was most recently shared at GSA Connects 2025 in San Antonio, TX, Colorado State University's 2025 Graduate Student Showcase in Fort Collins, CO, and the Colorado Scientific Society's 2025 Student Poster Night in Golden, CO.
+
+![](images/2025 GSA Connects.jpg){width="100%"}
+
+::: {style="clear: both;"}
+:::
+
+<br>
+
 ## **Acknowledgments**
 
 I would like to thank the following organizations and individuals for making this interdisciplinary research possible.
 
-**Our wonderful field team of enthusiastic, hard-working volunteers**: \[Undergraduate\] Molly Thayer, Michelle Leonard, Ferrah Jackson, Sophia Caunt, and Caroline Caravan; \[Graduate\] Rachel Bernstein, Noah Caldwell, Helen Flynn, and Ashlesha Khatiwada; \[External\] Jason Ford and Molly Gielas. **Generous financial supporters**: Quaternary Geology & Geochronology (QG&G) Division of the Geological Society of America (GSA), 2025 Marie Morisawa Award; Colorado Scientific Society (CSS), Student Research Grant. **Collaborators**: Dr. Nicholas Perez, Associate Professor, Department of Geology and Geophysics and Justin Smolen, M.S., Assistant Director, Laboratory for Synthetic-Biologic Interactions, Texas A&M University; Dr. Brandon McElroy, Professor, Department of Geology and Geophysics, University of Wyoming; Dr. Joshua Landis, Principal Research Scientist, Fallout RadioNuclide Analytics Lab Earth and Planetary Sciences, Dartmouth College; CSU’s Analytical Resource Center (ARC), and CSU’s EcoCore Soil Processing Lab.
+**Our wonderful field team of enthusiastic, hard-working volunteers**: \[Undergraduate\] Molly Thayer, Michelle Leonard, Ferrah Jackson, Sophia Caunt, and Caroline Caravan; \[Graduate\] Rachel Bernstein, Noah Caldwell, Helen Flynn, and Ashlesha Khatiwada; \[External\] Jason Ford and Molly Gielas. **Generous financial supporters**: Quaternary Geology & Geochronology (QG&G) Division of the Geological Society of America (GSA), 2025 Marie Morisawa Award; Colorado Scientific Society (CSS), Student Research Grant. **Collaborators**: Dr. Nicholas Perez, Associate Professor, Department of Geology and Geophysics and Justin Smolen, M.S., Assistant Director, Laboratory for Synthetic-Biologic Interactions, Texas A&M University; Dr. Brandon McElroy, Professor, Department of Geology and Geophysics, University of Wyoming; Dr. Joshua Landis, Principal Research Scientist, Fallout RadioNuclide Analytics Lab Earth and Planetary Sciences, Dartmouth College; CSU’s Analytical Resource Center (ARC), and CSU’s EcoCore Analytical Facility.
 
 ::: {style="clear: both;"}
 :::
